@@ -1,7 +1,7 @@
 # UIFontKit
 download and register custom fonts 下载并注册自定义字体
 
-<img src="https://raw.githubusercontent.com/quinn0809/p-i-c/master/1111.jpeg" width=200px height=400px>
+<img src="https://raw.githubusercontent.com/quinn0809/p-i-c/master/1111.jpeg" width=600px height=300px>
 
 # 使用
 ### 一、rigiester all cached fonts
