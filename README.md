@@ -9,8 +9,7 @@ download and register custom fonts 下载并注册自定义字体
 UIFontKitManager.shared.register()
 ```
 
-### 二、register font by urls
-### just download once
+### 二、register font by urls ,just download once
 ### 注册网络上的字体,自动下载并缓存,只需下载一次,以后每次打开App后调用 register() 即可注册本地已下载字体
 
 ```
@@ -23,3 +22,5 @@ UIFontKitManager.shared.register(paths: paths) { (error, local, url) in
 
 }
 ```
+<img src="https://raw.githubusercontent.com/quinn0809/p-i-c/master/IMG_3816D988F530-1.jpeg">
+
