@@ -1,7 +1,7 @@
 # UIFontKit
 download and register custom fonts 下载并注册自定义字体
 
-#使用
+# 使用
 ### rigiester all cached fonts
 ### 注册所有本地已下载的字体
 
