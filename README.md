@@ -1,6 +1,8 @@
 # UIFontKit
 download and register custom fonts 下载并注册自定义字体
 
+<img src="https://raw.githubusercontent.com/quinn0809/p-i-c/master/1111.jpeg">
+
 # 使用
 ### 一、rigiester all cached fonts
 ### 注册所有本地已下载的字体
@@ -22,5 +24,4 @@ UIFontKitManager.shared.register(paths: paths) { (error, local, url) in
 
 }
 ```
-<img src="https://raw.githubusercontent.com/quinn0809/p-i-c/master/IMG_3816D988F530-1.jpeg">
 
